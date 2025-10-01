@@ -1,0 +1,133 @@
+
+body {
+    background-image: url('Cameras.JPG'); /* Replace with your image path */
+    background-size: contain; /* Ensures the image covers the entire page */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+    background-color: hsla(170, 99%, 33%, 1.0);
+    color: #070707; /* white text color */
+    font-family: Papyrus;
+  }
+table {
+    border: 3px solid rgb(3, 3, 3);
+    border-collapse: collapse;
+    background-color: hsla(170, 99%, 33%, 0.6); /* Semi-transparent background */
+    width: 60%;
+    color: black; /* black text color */
+  }
+  th, td {
+    border: 2px solid black;
+    padding: 4px;
+  }
+
+caption {
+    font-size: 1.5em;
+    margin: 10px;
+    font-weight: bold;
+    color: white;
+  }
+
+html  {
+    font-size: 1.2rem;
+    line-height: 1.4;
+    margin: 2px 0;
+    color: rgb(1, 1, 1);
+  }
+
+  h1 {
+    font-size: 4em;
+    font-family: Brush Script MT; fantasy;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(157, 156, 156);
+    background-color: hsla(170, 99%, 33%, 0.3);
+    background-blend-mode:color-dodge
+    color rgb(254, 254, 254);
+  }
+
+  h2 {
+    text-decoration: underline ;
+    color: white;
+  }
+
+p {
+    text-shadow: #ffffff 5px 4 4px; /* Subtle shadow for better readability */
+    background-color: hsla(170, 99%, 33%, 1.0);
+    
+}
+
+ul {
+    text-shadow: #ffffff 5px 4 4px; /* Subtle shadow for better readability */
+    background-color: hsla(170, 99%, 33%, 1.0);
+    height: auto;
+}
+
+ a {
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+  }
+
+  a:hover {
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
+  }
+
+  h4 {
+    font-size: 1.5em;
+    font-family: Papyrus;
+    color: rgb(255, 0, 0);
+  }
+
+  form {
+    background-color: hsla(170, 99%, 33%, 0.5); /* Semi-transparent background */
+    padding: 4px;
+    border-radius: 3px;
+    width: 400px;
+    margin: 0 auto; /* Center the form */
+    color: black; /* black text color */
+    
+  }
+
+  fieldset {
+    border: 2px solid black;
+    padding: 2px;
+    margin-bottom: 2px;
+    align-content: center;
+  }
+
+  legend {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: rgb(255, 0, 0);
+  }
+
+  label {
+    display: block;
+    margin-bottom: 3px;
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+  }
+
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 2px;
+    margin-bottom: 4px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+    box-sizing: border-box;
+  }
+
+  input[type="submit"] {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: crosshair;
+  }
+
+  input[type="submit"]:hover {
+    background-color: rgb(200, 0, 0);
+    cursor: crosshair;
+  }
