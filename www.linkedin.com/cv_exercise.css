@@ -36,7 +36,7 @@ html, body {
   }
 
  .circle-image {
-  margin-top: 5px;
+    margin-top: 5px;
     border-radius: 50%;
     border: 0;
     object-fit: cover; /*Keeps image from stretching*/
@@ -104,35 +104,29 @@ p {
     padding: 20px;
 }
 
- #list-image {
+  #list-image {
     display: flex;
-    justify-content: flex-end;
-    position: relative;
-    right: 0;
-    z-index: 3;
+    justify-content: space-between;
+    flex-flow: flex-start;
+    align-items: center;
+    height: auto;  
   }
 
   #side-image {
-    width: 350px;
-    position: relative;
-    right: 0;
-    z-index: 3;
+   
+    width: 200px;
+    height: auto;
+    float: right;
+    margin-left: 0 auto;
   }
 
   #project-list {
     background-color: hsla(170, 99%, 33%, 1.0);
-    width: 80%;
     height: 150px;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-    list-style-type: square;
     font-family: Papyrus;
-    font-size: 1em;
+    font-size: 1.2em;
     color: white;
-    float: left;
     gap: 1px;
-    z-index: 2;
   }
 
 h4 {
