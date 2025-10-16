@@ -231,38 +231,39 @@ h4 {
    }
 
     h1 {
-      font-size: 3em;
+      font-size: 4em;
     }
 
     h2 {
-      font-size: 2.2em;
+      font-size: 3em;
     }
 
     h4 {
-      font-size: 1.2em;
+      font-size: 1.5em;
       margin-bottom: 0;
-      line-height: 1.1;
+      line-height: 1;
   }
 
     .circle-image {
-      width: 100px;
-      height: 100px;
+      width: 120px;
+      height: 120px;
     }
 
     table {
       width: 50%;
-      font-size: 1em;
+      font-size: 2rem;
     }
 
     #list-image {
       display: flex;
       justify-content: flex-start;
       margin-top: 0;
-      padding-left: 1.2rem;
+      padding-left: 1rem;
     }
 
     #side-image {
       max-width: 100%;
+      height: auto;
       display: block;
       margin: 0 0 0.2rem 0;
     }
@@ -282,9 +283,9 @@ h4 {
     p {
     font-family: 'Papyrus', sans-serif;
     align-items: center;
-    height: 10rem;
+    height: 20rem;
     font-size: 2rem;
-    padding: 4rem;
+    padding: 8rem;
 }
   }
 
