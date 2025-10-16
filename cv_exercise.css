@@ -381,18 +381,18 @@ h4 {
     }
 
     h2 {
-      font-size: 2em;
+      font-size: 4em;
     }
 
     h4 {
-      font-size: 1.5em;
+      font-size: 3em;
       margin-bottom: 0;
-      line-height: 1.1;
+      line-height: 1;
     }
 
     .circle-image {
-      width: 160px;
-      height: 160px;
+      width: 200px;
+      height: 200px;
     }
 
     table {
@@ -401,8 +401,7 @@ h4 {
     }
 
     #list-image {
-      display: flex;
-      justify-content: flex-start;
+      
       width: auto;
       height: 50%;
       margin-top: 0;
@@ -410,7 +409,7 @@ h4 {
     }
 
     #side-image {
-      max-width: 100%;
+      width: 100%;
       height: auto;
       display: block;
       margin: 0 0 0.2rem 0;
@@ -424,7 +423,8 @@ h4 {
     }
 
     form {
-      width: 40%;
+      width: 60%;
+      height: auto;
       margin-top: 0;
     }
 
@@ -433,11 +433,11 @@ h4 {
     justify-content: flex-start;
     align-items: center;
     background-color: hsla(170, 99%, 33%);
-    height: 8rem;
+    height: 10rem;
     color: white;
     font-size: 2rem;
     font-family: 'Papyrus', sans-serif;
-    padding: 4rem;
+    padding: 6rem;
 }
   }
 
