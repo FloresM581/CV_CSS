@@ -240,7 +240,8 @@ h4 {
 
     h4 {
       font-size: 0.8em;
-      margin-bottom: 0.2rem;
+      margin-bottom: 0;
+      line-height: 1.1;
   }
 
     .circle-image {
@@ -258,12 +259,14 @@ h4 {
       justify-content: flex-start;
       width: auto;
       height: 50%;
-      margin-top: 0.2rem;
+      margin-top: 0;
+      padding-left: 1.2rem;
     }
 
     #side-image {
-      width: 50%;
-      height: auto;
+      max-width: 100%;
+      display: block;
+      margin: 0 0 0.2rem 0;
     }
 
     #project-list {
@@ -275,6 +278,7 @@ h4 {
 
     form {
       width: 60%;
+      margin-top: 0.2rem;
     }
 
     p {
@@ -308,7 +312,8 @@ h4 {
 
     h4 {
       font-size: 0.8em;
-      margin-bottom: 0.2rem;
+      margin-bottom: 0;
+      line-height: 1.1;
     }
 
     .circle-image {
@@ -326,13 +331,14 @@ h4 {
       justify-content: flex-start;
       width: auto;
       height: 50%;
-      margin-top: 0.2rem;
+      margin-top: 0;
+      padding-left: 1.2rem;
     }
 
     #side-image {
-      width: 50%;
-      height: auto;
-      
+     max-width: 100%;
+      display: block;
+      margin: 0 0 0.2rem 0;
     }
 
     #project-list {
