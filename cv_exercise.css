@@ -377,27 +377,27 @@ h4 {
     }
 
     h1 {
-      font-size: 3em;
+      font-size: 4em;
     }
 
     h2 {
-      font-size: 1.5em;
+      font-size: 2em;
     }
 
     h4 {
-      font-size: 1em;
+      font-size: 1.5em;
       margin-bottom: 0;
       line-height: 1.1;
     }
 
     .circle-image {
-      width: 140px;
-      height: 140px;
+      width: 160px;
+      height: 160px;
     }
 
     table {
       width: 100%;
-      font-size: 1em;
+      font-size: 2em;
     }
 
     #list-image {
@@ -406,11 +406,12 @@ h4 {
       width: auto;
       height: 50%;
       margin-top: 0;
-      padding-left: 1.2rem;
+      padding-left: 1rem;
     }
 
     #side-image {
       max-width: 100%;
+      height: auto;
       display: block;
       margin: 0 0 0.2rem 0;
     }
@@ -432,11 +433,11 @@ h4 {
     justify-content: flex-start;
     align-items: center;
     background-color: hsla(170, 99%, 33%);
-    height: 4rem;
+    height: 8rem;
     color: white;
     font-size: 2rem;
     font-family: 'Papyrus', sans-serif;
-    padding: 2rem;
+    padding: 4rem;
 }
   }
 
