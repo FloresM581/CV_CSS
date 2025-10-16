@@ -55,7 +55,7 @@ table {
     background-color: hsla(170, 99%, 33%, 0.9); /* Semi-transparent background */
     width: 50%;
     color: rgb(250, 247, 247); /* black text color */
-    font-family: Papyrus;
+    font-family: 'Papyrus', 'Cursive', sans-serif;
     font-size: 1em;
   }
 
@@ -71,7 +71,7 @@ table {
 caption {
     font-size: 1.5em;
     text-decoration: underline;
-    text-shadow: 2px 2px 5px rgb(157, 156, 156);
+    text-shadow: 2px 2px 5px rgb(231, 229, 229);
     color: rgb(4, 4, 4);
     margin: 20px;
     font-weight: bold;
@@ -82,9 +82,9 @@ caption {
     position: relative;
     top: 0;
     font-size: 4em;
-    font-family: Brush Script MT; 
+    font-family: 'Brush Script MT', 'Cursive', sans-serif; 
     text-align: center;
-    text-shadow: 2px 2px 5px rgb(157, 156, 156);
+    text-shadow: 2px 2px 5px rgb(231, 229, 229);
     background-color: hsla(170, 99%, 33%, 0.8);
     color: rgb(4, 3, 3);
     margin: 20px;
@@ -93,10 +93,10 @@ caption {
   h2 {
     position: relative;
     text-decoration: underline ;
-    text-shadow: 2px 2px 5px rgb(157, 156, 156);
+    text-shadow: 2px 2px 5px rgb(231, 229, 229);
     color: rgb(4, 4, 4);
     font-size: 1.5em;
-    font-family: Papyrus;
+    font-family: 'Papyrus', 'Cursive', sans-serif;
     margin-top: 10px;
   }
 
@@ -108,7 +108,7 @@ p {
     height: 5rem;
     color: white;
     font-size: 1em;
-    font-family: Papyrus;
+    font-family: 'Papyrus', 'Cursive', sans-serif;
     padding: 2rem;
 }
 
@@ -134,7 +134,7 @@ p {
     justify-content: center;
     align-items: left;
     flex-direction: column;
-    font-family: Papyrus;
+    font-family: 'Papyrus', 'Cursive', sans-serif;
     font-size: 1.2rem;
     color: white;
     padding: 1.6rem;
@@ -238,6 +238,11 @@ h4 {
       font-size: 1em;
     }
 
+    h4 {
+      font-size: 0.8em;
+      margin-bottom: 0.3em;
+  }
+
     .circle-image {
       width: 100px;
       height: 100px;
@@ -253,12 +258,12 @@ h4 {
       justify-content: flex-start;
       width: auto;
       height: 50%;
+      margin-top: 0.3em;
     }
 
     #side-image {
       width: 50%;
       height: auto;
-      margin-top: 10px;
     }
 
     #project-list {
@@ -301,6 +306,11 @@ h4 {
       font-size: 1em;
     }
 
+    h4 {
+      font-size: 0.8em;
+      margin-bottom: 0.3em;
+    }
+
     .circle-image {
       width: 120px;
       height: 120px;
@@ -316,12 +326,13 @@ h4 {
       justify-content: flex-start;
       width: auto;
       height: 50%;
+      margin-top: 0.3em;
     }
 
     #side-image {
       width: 50%;
       height: auto;
-      margin-top: 10px;
+      
     }
 
     #project-list {
