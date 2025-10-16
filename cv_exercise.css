@@ -55,7 +55,7 @@ table {
     background-color: hsla(170, 99%, 33%, 0.9); /* Semi-transparent background */
     width: 50%;
     color: rgb(250, 247, 247); /* black text color */
-    font-family: 'Papyrus', 'Cursive', sans-serif;
+    font-family: 'Papyrus', sans-serif;
     font-size: 1em;
   }
 
@@ -82,7 +82,7 @@ caption {
     position: relative;
     top: 0;
     font-size: 4em;
-    font-family: 'Brush Script MT', 'Cursive', sans-serif; 
+    font-family: 'Brush Script MT', sans-serif; 
     text-align: center;
     text-shadow: 2px 2px 5px rgb(231, 229, 229);
     background-color: hsla(170, 99%, 33%, 0.8);
@@ -96,7 +96,7 @@ caption {
     text-shadow: 2px 2px 5px rgb(231, 229, 229);
     color: rgb(4, 4, 4);
     font-size: 1.5em;
-    font-family: 'Papyrus', 'Cursive', sans-serif;
+    font-family: 'Papyrus', sans-serif;
     margin-top: 10px;
   }
 
@@ -108,7 +108,7 @@ p {
     height: 5rem;
     color: white;
     font-size: 1em;
-    font-family: 'Papyrus', 'Cursive', sans-serif;
+    font-family: 'Papyrus', sans-serif;
     padding: 2rem;
 }
 
@@ -134,7 +134,7 @@ p {
     justify-content: center;
     align-items: left;
     flex-direction: column;
-    font-family: 'Papyrus', 'Cursive', sans-serif;
+    font-family: 'Papyrus', sans-serif;
     font-size: 1.2rem;
     color: white;
     padding: 1.6rem;
@@ -257,8 +257,6 @@ h4 {
     #list-image {
       display: flex;
       justify-content: flex-start;
-      width: auto;
-      height: 50%;
       margin-top: 0;
       padding-left: 1.2rem;
     }
