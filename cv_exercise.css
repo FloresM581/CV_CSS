@@ -373,6 +373,7 @@ h4 {
     .header-text {
       align-items: center;
       margin-top: 10px;
+      font-size: 2rem;
     }
 
     h1 {
@@ -420,11 +421,7 @@ h4 {
     }
 
     .project-list {
-      display: flex;
-      justify-content: flex-start;
-      align-items: center;
-      height: 1em;
-      width: auto;
+      position: absolute;
       font-size: 2em;
       padding: 10% 0;
       text-wrap-style: auto;
@@ -435,7 +432,7 @@ h4 {
       width: 60%;
       height: auto;
       margin-top: 10px;
-      left: 25%;
+      left: 15%;
     }
 
     p {
