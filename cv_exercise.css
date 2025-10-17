@@ -417,14 +417,12 @@ h4 {
     }
 
     .side-image {
-      position: relative;
-      width: 40%;
-      height: auto;
+      display: none;
     }
 
     .project-list {
       font-size: 2em;
-
+      padding: 10% 0;
    }
 
     form {
