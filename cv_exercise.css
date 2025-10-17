@@ -419,13 +419,14 @@ h4 {
       display: flex;
       justify-content: flex-start;
       align-items: center;
-      height: 15rem;
+      height: 25rem;
       width: auto;
       font-size: 2em;
       font-family: 'Papyrus', sans-serif;
       text-wrap-style: auto;
       padding: 10% 2;
       margin: 0 auto;
+      gap: 0;
    }
 
     form {
