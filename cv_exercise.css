@@ -420,15 +420,15 @@ h4 {
     }
 
     .project-list {
-      display: block;
+      display: flex;
       justify-content: flex-start;
       align-items: center;
-      height: 3em;
+      height: 1em;
       width: auto;
       font-size: 2em;
       padding: 10% 0;
       text-wrap-style: auto;
-      margin-bottom: 5px;
+      margin-bottom: 10px;
     }
 
     form {
@@ -456,9 +456,6 @@ h4 {
     left: 25%;
   }
 
-  #bg-video {
-    object-fit: scale-down;
-  }
   }
 
 
