@@ -422,9 +422,10 @@ h4 {
 
     #project-list {
       display: block;
-      height: 2%;
       font-size: 2em;
-      padding: 15rem;
+      padding: 10rem;
+      text-wrap: pretty;
+      margin-bottom: 5px;
     }
 
     form {
@@ -443,7 +444,7 @@ h4 {
     color: white;
     font-size: 2em;
     font-family: 'Papyrus', sans-serif;
-    text-wrap: pretty;
+    text-wrap-style: auto;
     padding: 10rem;
 }
 
