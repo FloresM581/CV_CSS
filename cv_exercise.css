@@ -119,13 +119,13 @@ p {
     
   }
 
-  #side-image {
+  .side-image {
     width: 350px;
     right: 0;
     
   }
 
-  #project-list {
+  .project-list {
     background-color: hsla(201, 64%, 14%, 1.0);
     width: 75%;
     height: 160px;
