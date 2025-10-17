@@ -377,6 +377,7 @@ h4 {
 
     h1 {
       font-size: 4em;
+      left: 25%;
     }
 
     h2 {
@@ -403,6 +404,7 @@ h4 {
     table {
       width: 100%;
       font-size: 2em;
+      left: 25%
     }
 
     #list-image {
@@ -421,10 +423,13 @@ h4 {
 
     #project-list {
       display: flex;
+      justify-content: flex-start;
       align-items: center;
+      height: 15rem;
+      width: auto;
       font-size: 2em;
-      padding: 40% 2;
-      text-wrap: pretty;
+      padding: 10% 2;
+      text-wrap-style: auto;
       margin-bottom: 5px;
     }
 
@@ -432,6 +437,7 @@ h4 {
       width: 60%;
       height: auto;
       margin-top: 10px;
+      left: 25%;
     }
 
     p {
@@ -440,15 +446,16 @@ h4 {
     align-items: center;
     height: 15rem;
     width: auto;
-    color: white;
     font-size: 2em;
     font-family: 'Papyrus', sans-serif;
     text-wrap-style: auto;
     padding: 10% 2;
+    left: 25%;
 }
 
   .secondary {
     padding: 10% 2;
+    left: 25%;
   }
   }
 
