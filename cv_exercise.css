@@ -409,17 +409,15 @@ h4 {
       margin: 0 auto;
     }
 
-    #list-image {
-      display: block;
-      align-items: center;
-      position: relative;
-    }
+    
 
     .side-image {
       display: none;
     }
 
     .project-list {
+      display: block;
+      position: relative;
       font-size: 2em;
       padding: 10% 0;
    }
