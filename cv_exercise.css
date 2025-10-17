@@ -411,7 +411,7 @@ h4 {
 
     #list-image {
       display: block;
-      justify-content: flex-start;
+      justify-content: space-between;
       position: relative;
       left: 25%;
     }
@@ -433,7 +433,6 @@ h4 {
       font-family: 'Papyrus', sans-serif;
       font-size: 2em;
       padding: 10% 0;
-     
     }
 
     form {
