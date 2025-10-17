@@ -389,7 +389,7 @@ h4 {
     caption {
       color: white;
     }
-    
+
     h4 {
       font-size: 2em;
       margin-bottom: 5px;
@@ -424,7 +424,7 @@ h4 {
       display: block;
       height: 2%;
       font-size: 2em;
-      padding: 2rem;
+      padding: 15rem;
     }
 
     form {
@@ -444,7 +444,7 @@ h4 {
     font-size: 2em;
     font-family: 'Papyrus', sans-serif;
     text-wrap: pretty;
-    padding: 8rem;
+    padding: 10rem;
 }
 
   .secondary {
