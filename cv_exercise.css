@@ -410,16 +410,17 @@ h4 {
       display: block;
       justify-content: flex-start;
       position: relative;
+      left: 25%;
     }
 
-    #side-image {
+    .side-image {
       position: relative;
       width: 60%;
       height: auto;
     }
 
-    #project-list {
-      display: flex;
+    .project-list {
+      display: block;
       justify-content: flex-start;
       align-items: center;
       height: 3em;
@@ -456,7 +457,7 @@ h4 {
   }
 
   #bg-video {
-    object-fit: contain;
+    object-fit: scale-down;
   }
   }
 
