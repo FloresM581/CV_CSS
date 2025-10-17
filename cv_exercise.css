@@ -418,7 +418,6 @@ h4 {
     #project-list {
       display: block;
       font-size: 2em;
-      padding-left: 2.5rem;
       padding: 2rem;
     }
 
@@ -436,13 +435,14 @@ h4 {
     height: 15rem;
     width: auto;
     color: white;
-    font-size: 2em;
+    font-size: 1.8em;
     font-family: 'Papyrus', sans-serif;
+    text-wrap: pretty;
     padding: 10rem;
 }
 
   .secondary {
-    padding: 5rem;
+    padding: 3rem;
   }
   }
 
