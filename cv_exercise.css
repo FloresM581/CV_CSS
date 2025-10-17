@@ -418,11 +418,14 @@ h4 {
 
     .side-image {
       position: relative;
-      width: 60%;
+      width: 40%;
       height: auto;
     }
 
-   
+    .project-list {
+      font-size: 2em;
+
+   }
 
     form {
       width: 60%;
