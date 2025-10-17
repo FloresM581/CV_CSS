@@ -416,17 +416,22 @@ h4 {
     }
 
     .project-list {
-      display: block;
-      position: relative;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      height: 15rem;
+      width: auto;
       font-size: 2em;
-      padding: 10% 0;
+      font-family: 'Papyrus', sans-serif;
+      text-wrap-style: auto;
+      padding: 10% 2;
+      margin: 0 auto;
    }
 
     form {
       width: 60%;
       height: auto;
       margin-top: 10px;
-      left: 15%;
     }
 
     p {
