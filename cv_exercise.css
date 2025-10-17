@@ -410,10 +410,9 @@ h4 {
     }
 
     #list-image {
-      display: flex;
-      justify-content: space-between;
+      display: block;
+      align-items: center;
       position: relative;
-      left: 25%;
     }
 
     .side-image {
