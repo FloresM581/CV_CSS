@@ -417,16 +417,15 @@ h4 {
 
     .project-list {
       display: flex;
-      justify-content: flex-start;
+      justify-content:center;
       align-items: center;
-      height: 25rem;
+      height: 35rem;
       width: auto;
       font-size: 2em;
       font-family: 'Papyrus', sans-serif;
-      text-wrap-style: auto;
-      padding: 10% 2;
-      margin: 0 auto;
-      gap: 0;
+      padding-left: 40px;
+      padding: 5% 4;
+      gap: none;
    }
 
     form {
