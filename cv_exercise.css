@@ -399,8 +399,8 @@ h4 {
     }
 
     .circle-image {
-      width: 300px;
-      height: 300px;
+      width: 350px;
+      height: 350px;
     }
 
     table {
@@ -410,7 +410,7 @@ h4 {
     }
 
     #list-image {
-      display: block;
+      display: flex;
       justify-content: space-between;
       position: relative;
       left: 25%;
@@ -422,18 +422,7 @@ h4 {
       height: auto;
     }
 
-    .project-list {
-      position: relative;
-      background-color: hsla(201, 64%, 14%, 1.0);
-      width: 75%;
-      height: 160px;
-      display: flex;
-      align-items: left;
-      flex-direction: column;
-      font-family: 'Papyrus', sans-serif;
-      font-size: 2em;
-      padding: 10% 0;
-    }
+   
 
     form {
       width: 60%;
