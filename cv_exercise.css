@@ -141,7 +141,7 @@ p {
     color: white;
     padding: 1.6rem;
     gap: 7px;
-    
+    z-index: 2;
   }
 
 h4 {
