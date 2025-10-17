@@ -354,7 +354,6 @@ h4 {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    background-color: hsla(170, 99%, 33%);
     height: 8rem;
     color: white;
     font-size: 2rem;
@@ -404,7 +403,7 @@ h4 {
     table {
       width: 100%;
       font-size: 2em;
-      left: 25%
+      margin: 0 auto;
     }
 
     #list-image {
@@ -422,6 +421,9 @@ h4 {
 
     .project-list {
       position: absolute;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
       font-size: 2em;
       padding: 10% 0;
       text-wrap-style: auto;
@@ -445,12 +447,12 @@ h4 {
     font-family: 'Papyrus', sans-serif;
     text-wrap-style: auto;
     padding: 10% 2;
-    left: 25%;
+    margin: 0 auto;
 }
 
   .secondary {
     padding: 10% 2;
-    left: 25%;
+    margin: 0 auto;
   }
 
   }
