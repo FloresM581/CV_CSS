@@ -272,10 +272,10 @@ h4 {
       align-items: center;
       height: 19rem;
       width: auto;
-      font-size: 1.1em;
+      font-size: 1.2em;
       font-family: 'Papyrus', sans-serif;
-      padding-left: 22px;
-      padding: 5% 2;
+      padding-left: 40px;
+      padding: 2% 1;
       gap: none;
    }
 
@@ -291,7 +291,7 @@ h4 {
     align-items: center;
     height: 8rem;
     width: auto;
-    font-size: 1.1em;
+    font-size: 1.2em;
     font-family: 'Papyrus', sans-serif;
     text-wrap-style: auto;
     padding: 10% 2;
@@ -364,7 +364,7 @@ h4 {
       width: auto;
       font-size: 1.2em;
       font-family: 'Papyrus', sans-serif;
-      padding-left: 40px;
+      padding-left: 30px;
       padding: 2% 1;
       gap: none;
    }
@@ -438,7 +438,7 @@ h4 {
 
     table {
       width: 90%;
-      font-size: 1em;
+      font-size: 1.1em;
       margin: 0 auto;
     }
 
@@ -452,9 +452,9 @@ h4 {
       align-items: center;
       height: 20rem;
       width: auto;
-      font-size: 1.1em;
+      font-size: 1.2em;
       font-family: 'Papyrus', sans-serif;
-      padding-left: 40px;
+      padding-left: 30px;
       padding: 2% 1;
       gap: none;
    }
@@ -469,9 +469,9 @@ h4 {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    height: 9rem;
+    height: 10rem;
     width: auto;
-    font-size: 1.1em;
+    font-size: 1.2em;
     font-family: 'Papyrus', sans-serif;
     text-wrap-style: auto;
     padding: 2% 1;
