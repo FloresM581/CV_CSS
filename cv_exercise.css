@@ -270,7 +270,7 @@ h4 {
       display: flex;
       justify-content: flex-start;
       align-items: center;
-      height: 19rem;
+      height: 21rem;
       width: auto;
       font-size: 1.2em;
       font-family: 'Papyrus', sans-serif;
@@ -280,7 +280,7 @@ h4 {
    }
 
     form {
-      width: 30%;
+      width: 40%;
       height: auto;
       margin-top: 10px;
     }
@@ -360,9 +360,9 @@ h4 {
       display: flex;
       justify-content:center;
       align-items: center;
-      height: 20rem;
+      height: 21rem;
       width: auto;
-      font-size: 1.2em;
+      font-size: 1.3em;
       font-family: 'Papyrus', sans-serif;
       padding-left: 30px;
       padding: 2% 1;
@@ -379,9 +379,9 @@ h4 {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    height: 7rem;
+    height: 10rem;
     width: auto;
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-family: 'Papyrus', sans-serif;
     text-wrap-style: auto;
     padding: 2% 1;
